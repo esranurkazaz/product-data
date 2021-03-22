@@ -1,0 +1,28 @@
+{
+  "popularItems": [
+    {
+      "source": "images/item-1.jpg",
+      "alternative": "item-1",
+      "name": "PRODUCT-9",
+      "price": "$ 799.55"
+    },
+    {
+      "source": "images/item-2",
+      "alternative": "item-2",
+      "name": "PRODUCT-10",
+      "price": "$ 659.55"
+    },
+    {
+      "source": "images/item-3",
+      "alternative": "item-3",
+      "name": "PRODUCT-11",
+      "price": "$ 129.55"
+    },
+    {
+      "source": "images/item-4",
+      "alternative": "item-4",
+      "name": "PRODUCT-12",
+      "price": "$ 299.99"
+    }
+  ]
+}

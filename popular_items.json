@@ -1,5 +1,4 @@
-{
-  "popularItems": [
+[
     {
       "source": "images/item-1.jpg",
       "alternative": "item-1",
@@ -25,4 +24,3 @@
       "price": "$ 299.99"
     }
   ]
-}
